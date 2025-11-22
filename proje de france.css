@@ -117,6 +117,7 @@ border-radius: 15px;
   font-size: xx-large;
 }
   .user{
+    position:relative;
     right:200px;
 
 
@@ -389,5 +390,6 @@ width: 400px;
   padding: 0;
 
 }
+
 
 
